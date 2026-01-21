@@ -1,0 +1,16 @@
+# data + local databases
+data/
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+
+# dbt artifacts
+dbt_packages/
+target/
+logs/
+**/target/
+**/logs/
+
+# secrets
+.env
