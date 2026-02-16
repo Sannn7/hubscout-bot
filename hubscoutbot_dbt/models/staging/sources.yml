@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: raw
+    database: hubscoutbot
+    schema: raw
+    tables:
+      - name: neighbourhoods
+      - name: open_space
+      - name: permits_facts
+      - name: property_facts
+      - name: property_geometry
+      - name: gtfs_agency

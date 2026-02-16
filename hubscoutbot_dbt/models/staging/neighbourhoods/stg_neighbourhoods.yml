@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: stg_neighbourhoods
+    columns:
+      - name: neighborhood_id
+        tests:
+          - not_null
+          - unique
+      - name: neighborhood_name
+        tests:
+          - not_null

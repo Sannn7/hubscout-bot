@@ -1,16 +1,43 @@
-# data + local databases
-data/
-*.duckdb
-*.db
-*.sqlite
-*.sqlite3
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
 
-# dbt artifacts
-dbt_packages/
-target/
-logs/
-**/target/
-**/logs/
+# IDEs
+.vscode/
+.idea/
+*.swp
 
-# secrets
+# Environment
 .env
+.env.local
+
+# Data (too large)
+data/raw/mbta/MBTA_GTFS/*.txt
+data/raw/neighborhood_boundaries/
+data/raw/open_space/
+data/raw/permits/
+data/raw/property_assessment_fy25/
+*.duckdb
+*.zip
+*.csv
+
+# Vector store
+chroma_db/
+*.db
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
