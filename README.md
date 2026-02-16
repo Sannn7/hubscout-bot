@@ -229,13 +229,7 @@ docker-compose down                    # Stop services
 - 📋 Web search for real-time data
 - 📋 Frontend UI
 
----
 
-## License
-
-MIT License - see [LICENSE](LICENSE)
-
----
 
 ## Author
 
@@ -243,19 +237,6 @@ MIT License - see [LICENSE](LICENSE)
 MS Data Science, Northeastern University  
 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
 
----
-
-## Citation
-```bibtex
-@software{hubscout_2026,
-  author = {Killekar, Sanika},
-  title = {HubScout: RAG Chatbot for Boston Real Estate},
-  year = {2026},
-  url = {https://github.com/yourusername/hubscout}
-}
-```
-
----
 
 <div align="center">
 
