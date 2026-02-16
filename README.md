@@ -240,8 +240,3 @@ MS Data Science, Northeastern University
 
 <div align="center">
 
-**⭐ Star this repo if you find it useful!**
-
-[Documentation](http://localhost:8000/docs) • [Report Bug](https://github.com/yourusername/hubscout/issues) • [Request Feature](https://github.com/yourusername/hubscout/issues)
-
-</div>
