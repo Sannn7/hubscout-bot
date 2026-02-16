@@ -234,8 +234,8 @@ docker-compose down                    # Stop services
 ## Author
 
 **Sanika Killekar**  
-MS Data Science, Northeastern University  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+MS Data Science, Northeastern University (Boston, MA)
+[LinkedIn](https://www.linkedin.com/in/sanikakillekar0311/) • [GitHub](https://github.com/Sannn7/)
 
 
 <div align="center">
